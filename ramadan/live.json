@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "8645b2712235adb8d8d16614396267e45391f61bd71cc6c847c336f54f1445f4",
-    "signature": "ed25519:THm887FaTmgrmwK5zIIlVW/0ksk21/C4RDQUVRXwjBHeedvXs/zEwYeggIxIB6yyvpx/CTsDapM1G18wBlz1CQ==",
-    "bytes": 2503,
-    "published_at": "2026-11-04T05:53:25+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/ramadan-app-data@c1744fe/ramadan/v2.json"
+    "version": 3,
+    "sha256": "9cd9730f05f33b276d49e105060b8a8d3546ab5fb3b44bf57a372fd4f2250fe4",
+    "signature": "ed25519:fvXiMC6xTkHc9Mh+kqpGbGWmD8QzOIpN/IcobRQ6REafnFD0Oc5Ofg9srAvuU52sQQT+a10+NoA+i4/21/I1BA==",
+    "bytes": 2376,
+    "published_at": "2026-11-04T05:56:12+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/ramadan-app-data@e48b8cf/ramadan/v3.json"
 }
